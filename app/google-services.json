@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "81975766885",
+    "firebase_url": "https://ratemysingingdemo.firebaseio.com",
+    "project_id": "ratemysingingdemo",
+    "storage_bucket": "ratemysingingdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81975766885:android:9c283988b9d3e523",
+        "android_client_info": {
+          "package_name": "com.arvind.ratemysingingdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81975766885-icss5470k62ne6hqut6napj4gg74be8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4fufEWscWCXpWhLYRipeqvUKoeL0IWGw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:minHeight="130sp"
+    android:minWidth="300sp"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/newUserNameEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter user name"/>
+
+    <EditText
+        android:id="@+id/newUserAgeEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter user age"
+        android:layout_below="@id/newUserNameEditText"/>
+
+
+</RelativeLayout>
